@@ -1,6 +1,5 @@
-## makkon.github.io
 # Makkon Textures Documentation
-
+![[tbsketch_43_2_2024-12-28_05-17-02.png]]
 ## general use, texel density, nearest filtering
 ## quake-specific stuff that carries over (naming convention, fulbright pixels)
 ## trimsheet tutorial
