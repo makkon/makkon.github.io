@@ -56,7 +56,7 @@ Don't want to learn to use trimsheets? That's fine, don't use them! Your game wi
 
 Here's a youtube video on how to use a trimsheet texture, inside of the mapping software Trenchbroom. These principles carry over to other modeling/mapping software.
 
-![](youtube.com/watch?v=piiYIExIN6E)
+![](https://www.youtube.com/watch?v=piiYIExIN6E&ab_channel=Slipseer)
 
 ## decals overview, edge decals, damage
 ## unique texture callouts
