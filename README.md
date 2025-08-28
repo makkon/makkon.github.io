@@ -58,7 +58,7 @@ A trimsheet is a detail texture, typically used on edges like a trim (hence the 
 Don't want to learn to use trimsheets? That's fine, don't use them! Your game will look best when you use textures for their intended use, and don't use textures for their unintended use.
 
 Here's a youtube video on how to use a trimsheet texture, inside of the mapping software Trenchbroom. These principles carry over to other modeling/mapping software.
-<iframe width="2545" height="1120" src="https://www.youtube.com/embed/piiYIExIN6E" title="Trenchbroom and Quake: Using Makkon Trimsheets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![](https://youtu.be/piiYIExIN6E?si=MiF660fpd98eKYQM)
 
 ## decals overview, edge decals, damage
 ## unique texture callouts
