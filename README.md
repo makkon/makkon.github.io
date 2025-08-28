@@ -37,14 +37,18 @@ Quake uses specific colors in their 256 color palette that would appear bright e
 This library has standard prefixes to denote intended use, and for better categorization.
 
 The following prefixes denote intended use, but these textures are generally more flexible for other uses.
+
 `c_` 
-	Common textures, for general use. These can work on walls, floors, and ceilings. 
+	are Common textures, for general use. These can work on walls, floors, and ceilings. 
+
 `f_`
-	Floor textures.
+	are Floor textures.
+
 `w_`
-	Wall textures. 
+	are Wall textures. 
+
 `win_` 
-	Window textures, sometimes tiling, sometimes in an atlas.
+	are Window textures, sometimes tiling, sometimes in an atlas.
 
 The following prefixes are not guidelines, but the technical function of a texture. Using them outside of their intended use will yield poor results unless you specifically know what you're doing.
 `st_`
@@ -58,7 +62,12 @@ A trimsheet is a detail texture, typically used on edges like a trim (hence the 
 Don't want to learn to use trimsheets? That's fine, don't use them! Your game will look best when you use textures for their intended use, and don't use textures for their unintended use.
 
 Here's a youtube video on how to use a trimsheet texture, inside of the mapping software Trenchbroom. These principles carry over to other modeling/mapping software.
+https://youtu.be/piiYIExIN6E?si=MiF660fpd98eKYQM
 ![](https://youtu.be/piiYIExIN6E?si=MiF660fpd98eKYQM)
+
+There are two different kinds of trimsheets: Standard and Decorative.
+
+Standard 
 
 ## decals overview, edge decals, damage
 ## unique texture callouts
