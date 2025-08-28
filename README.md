@@ -18,13 +18,16 @@ These textures were built for and look best with Nearest Filtering. However, the
 Textures made for Quake (1996) have a strict 15 character limit, and that carried over to the naming convention of this library. You can change them to however you want.
 
 *Quake specific prefixes*
+
 `+0` and `+a`
-	These are used for animated textures in quake. `+0` is the first frame, and consecutive numbers are the following frames. `+a` is the "action" frame, such as when a button is pressed.
+	 are used for animated textures in quake. `+0` is the first frame, and consecutive numbers are the following frames. `+a` is the "action" frame, such as when a button is pressed.
 	Often texture sets will only have `+0` and `+a` and no other frames, such as a simple button.
+
 curly bracket `{`
-	This is what quake uses to denote a texture with an alpha, or transparency. Most editors won't like having this in a file name. In future updates, I'll try to find a way to have textures I publish here don't have this prefix.
+	 is what quake uses to denote a texture with an alpha, or transparency. Most editors won't like having this in a file name. In future updates, I'll try to find a way to have textures I publish here don't have this prefix.
+
 asterisk `*`
-	What quake uses for liquids, like water or lava.
+	is what quake uses for liquids, like water or lava.
 
 *Fullbright Pixels*
 Quake uses specific colors in their 256 color palette that would appear bright even in full shadow, much like modern Emissive Textures. This texture library doesn't currently include emissive textures or masks, but will in a future update. 
@@ -55,8 +58,7 @@ A trimsheet is a detail texture, typically used on edges like a trim (hence the 
 Don't want to learn to use trimsheets? That's fine, don't use them! Your game will look best when you use textures for their intended use, and don't use textures for their unintended use.
 
 Here's a youtube video on how to use a trimsheet texture, inside of the mapping software Trenchbroom. These principles carry over to other modeling/mapping software.
-
-![](https://www.youtube.com/watch?v=piiYIExIN6E&ab_channel=Slipseer)
+<iframe width="2545" height="1120" src="https://www.youtube.com/embed/piiYIExIN6E" title="Trenchbroom and Quake: Using Makkon Trimsheets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## decals overview, edge decals, damage
 ## unique texture callouts
