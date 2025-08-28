@@ -62,12 +62,17 @@ A trimsheet is a detail texture, typically used on edges like a trim (hence the 
 Don't want to learn to use trimsheets? That's fine, don't use them! Your game will look best when you use textures for their intended use, and don't use textures for their unintended use.
 
 Here's a youtube video on how to use a trimsheet texture, inside of the mapping software Trenchbroom. These principles carry over to other modeling/mapping software.
-https://youtu.be/piiYIExIN6E?si=MiF660fpd98eKYQM
+[Youtube Link](https://youtu.be/piiYIExIN6E?si=MiF660fpd98eKYQM)
 ![](https://youtu.be/piiYIExIN6E?si=MiF660fpd98eKYQM)
+
+If you hate video tutorials, here's a written technical explanation.
 
 There are two different kinds of trimsheets: Standard and Decorative.
 
-Standard 
+Standard trimsheets look like this. They all have the same layout in every texture set, and are easily interchangeable.
+![](stn_t01a_gry1.png)
+An important feature of these trims are convex edge highlights and concave seams. You can see groups of 4 trims together of the same size.
+
 
 ## decals overview, edge decals, damage
 ## unique texture callouts
